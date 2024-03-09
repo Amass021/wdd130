@@ -1,4 +1,9 @@
-
+.modak-regular {
+    font-family: "Modak", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
 body {
     font-family: var(--paragraph-font);
     max-width: 960px;
