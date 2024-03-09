@@ -5,10 +5,10 @@ body {
     padding: 20px;
 }
 :root {
-    --primary-color: 1d3557;
-    --secondary-color: a8dadc;
-    --ascent1-color: ffbe0b;
-    --ascent2-color: dda15e;
+    --primary-color: steelblue;
+    --secondary-color: blue;
+    --ascent1-color: yellow;
+    --ascent2-color: green;
 
     --heading-font: "Ariel Black", serif;
     --paragraph-font: "Times New Roman", serif;
