@@ -13,10 +13,10 @@ body {
     --heading-font: "Ariel Black", serif;
     --paragraph-font: "Times New Roman", serif;
 
-    --nav-background-color: 003049;
-    --nav-link-color: 212529;
-    --nav-hover-link-color: 8d99ae;
-    --nav-hover-background-color: e09f3e;
+    --nav-background-color: blue;
+    --nav-link-color: yellow;
+    --nav-hover-link-color: red;
+    --nav-hover-background-color: green;
 }
 body {
     font-family: var(--paragraph-font);
