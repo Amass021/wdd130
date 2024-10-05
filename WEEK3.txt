@@ -1,0 +1,14 @@
+1 image file selected was circlelogo
+
+2. :root {
+ 	--primary-color: 8ECAE6;
+   	--secondary-color: 219EBC;
+   	--ascent1-color: FFB703;
+    	--ascent2-color: FB8500;
+
+	--heading-font: "PT Serif", serif;
+    	--text-font: "Open Sans", serif;
+
+3. https://fonts.google.com/specimen/PT+Serif
+   https://fonts.google.com/specimen/Open+Sans
+
